@@ -9,8 +9,8 @@ class NotificationManager:
         self.destination = destination
         self.from_date = from_
         self.to_date = to_
-        self.my_email = "lazyminds.0499@yahoo.com"
-        self.password = "kqgxmzyrluvaxofa"
+        self.my_email = "EMAIL ID"
+        self.password = "PASSWORD"
 
     def sending_mail(self):
         with smtplib.SMTP("smtp.mail.yahoo.com") as connection:
