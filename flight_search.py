@@ -1,5 +1,5 @@
 import requests
-tequila_app_key = "6kdkZXq6BoCiJWs5xQ-qAiuPUie-nIyS"
+tequila_app_key = "APP KEY"
 tequila_url = "https://api.skypicker.com/flights"
 
 
