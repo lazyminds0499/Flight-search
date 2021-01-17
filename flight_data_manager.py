@@ -5,9 +5,9 @@ class DataManager:
     def __init__(self):
         self.i = 2
         self.city_list = ["ory", "txl", "hnd", "syd", "ist", "kul", "jfk", "sfo", "cpt"]
-        self.sheety_url = "https://api.sheety.co/79307bbe3f20c2bb00efab1233f62976/flights/sheet1"
+        self.sheety_url = "SHEETY URL"
         self.headers = {
-                        "Authorization": "Bearer 8810nky7988",
+                        "Authorization": "Bearer TOKEN",
                         "Content-Type": "application/json"
                         }
 
